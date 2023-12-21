@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Nikita - Frontend Developer</h1>
-  <img src="https://www.krashher.ru/images/github/myTitle.gif" width="100%"/>
+  <img src="https://www.krashher.ru/images/github/myTitle2.gif" width="100%"/>
   <div id="badges">
     <a href="https://t.me/IamKrashheR">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
