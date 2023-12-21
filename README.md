@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨‍💻Nikita Kucherenko👨‍💻</h1>
-  <img src="https://www.krashher.ru/images/github/greetings.gif" width="100%"/>
+  <img src="https://www.krashher.ru/images/github/greetings.gif" width="100%" alt="Greetings gif"/>
   <div id="badges">
     <a href="https://t.me/IamKrashheR">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
