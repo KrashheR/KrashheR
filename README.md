@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Nikita - Frontend Developer</h1>
+  <h1>👨‍💻Nikita Kucherenko👨‍💻</h1>
   <img src="https://www.krashher.ru/images/github/greetings.gif" width="100%"/>
   <div id="badges">
     <a href="https://t.me/IamKrashheR">
